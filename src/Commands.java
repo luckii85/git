@@ -14,6 +14,6 @@ public @interface Commands {
 // git show xxxxx - раскрывает комит
 
 // git clone url - копирование удаленного проекта на диск
-// git remote add url - привязывание проекта к удаленному репозиторию
+// git remote add name url - привязывание проекта к удаленному репозиторию
 // git remote -v - выведение информации о удаленном репозитории
 // git push -u origin master - отправка изменений на гитхаб
