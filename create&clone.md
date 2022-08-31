@@ -15,3 +15,5 @@
     git remote set-url origin url - смена url
 
     git remote -v - показывает url
+---
+[меню](./README.md)
